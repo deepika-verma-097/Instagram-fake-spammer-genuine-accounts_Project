@@ -85,6 +85,12 @@ models/
 
 ---
 
+## Dashboard
+
+![Dashboard Preview](https://github.com/deepika-verma-097/Instagram-fake-spammer-genuine-accounts_Project/blob/main/snapshot_of%20_dashboard.png)
+
+---
+
 ## 🛠 Technologies Used
 
 - Python
